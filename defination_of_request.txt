@@ -1,0 +1,28 @@
+www=world wide web 
+ye ek information  system hota h ya collection of data hota h jaha pr kai sare photos videos documents ka link stored rehta h jisko hm ek url yani ki ek link ke madhyam se exis kr pate hm
+
+url= uniform resource locatior
+jo bhi data www m store rehta h usko exis krne k liye hme ek ki jrurat hoti h use url kehte h
+url =eska mtlb resource ko locate krna dhundh kr
+
+http = hypertext transfer protocol
+file ko ek jgah se dusri jgah bhejna
+set of rule 
+server se browser ke bich m ya server se client ke bich 
+or esi ke madhyam se internet exis kr pate h 
+
+agar hm data bhej rhe h server ko or agar bich m koi hacker betha h to hmara data chura saka h
+eska mtlb hmara data transfer to hora h pr wo secuired nhi h agar http ke madhyam see h to
+esliye data ko sequire krne ke liye puri tarah se in cripted krne ke liye hm https ka estemal krte hm
+
+https=hypertext transfer protocol secure
+mtlb aap jo bhi data transfer krre ho wo puri tarah se secuired h encripted h us data ko koi bhi hacker
+ ya third party chura nhi sakta
+
+server= jo bhi requist krta h wo client hota h or jo response deta h server hota h
+client=browser
+
+IP address = internet protocol address
+ye ek tarah ka address hota h ya unquie number hota h jo hr device ke liye ex smartphone computer scaner 
+jo bhi internate se connected ho internate ko exist krna chahta ho unke l.iye ek unique address hota h jise ip address bolte h
+esi address se internet ki duniya m unique pehchan hoti h
